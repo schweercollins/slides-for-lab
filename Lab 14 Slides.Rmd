@@ -1,0 +1,26 @@
+---
+title: "Lab 14"
+author: "Maria Schweer-Collins"
+date: "November 21, 2018"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+
+## Thanksgiving Menu
+
+- Carrots
+- Turkey
+- Potatoes
+
+## Interesting Thanksgiving Read
+
+http://time.com/5457183/thanksgiving-native-american-holiday/
+
+## The End
+
+Happy Thanksgiving
